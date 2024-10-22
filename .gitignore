@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/chatbot-backend/node_modules
 /.pnp
 .pnp.js
 
